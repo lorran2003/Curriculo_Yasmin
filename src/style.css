@@ -262,7 +262,7 @@
             line-height: 1.4;
         }
         .curso-item:last-child { border-bottom: none; }
-        .curso-nome { font-weight: 500; color: var(--navy-mid); }
+        .curso-nome { font-weight: 500; color: var(--navy-mid); text-transform: uppercase; }
 
         @media (max-width: 680px) {
             .cv-body { grid-template-columns: 1fr; }
